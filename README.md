@@ -1,5 +1,5 @@
 # Disk Scheduler
-Disk Scheduler in C for the FCFS, SJF, RR, Priority and Priority RR Algorithms.
+Disk Scheduler in C for the FCFS, SJF, RR, Priority and Priority RR Algorithms. This program was written for my Operating Systems course.
 
 # Usage
 First, compile the scheduler that you would like. For example, if you would like to use the FCFS scheduler, use the command: 
